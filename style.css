@@ -1,0 +1,34 @@
+#page-header,
+#page-footer {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  background: #1abc9c;
+
+}
+
+#page-header {
+  text-align: center;
+  top: 0;
+  height: 100px;
+}
+
+#page-footer {
+  bottom: 0;
+  height: 100px;
+}
+
+#page-content {
+  background-color: antiquewhite;
+  padding: 100px 0 75px;
+
+}
+
+#para {
+  font-size: x-large;
+}
+
+span {
+  font-weight: bold;
+  color: blueviolet
+}
